@@ -14,7 +14,9 @@ public class Application {
 
 		System.out.println("Naresh")
 
-        System.out.println("Naveen");  
+        System.out.println("Naveen"); 
+		System.out.println("Dinesh");
+        		
         
 
 		
