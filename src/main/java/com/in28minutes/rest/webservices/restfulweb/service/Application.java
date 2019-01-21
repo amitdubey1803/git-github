@@ -11,19 +11,9 @@ public class Application {
 		System.out.println("Hi naveen"); 
 		System.out.println("Hi Test");
 		System.out.println("Hi Test 2 ");
-<<<<<<< HEAD
+        System.out.println("Naresh");
 
-		System.out.println("Naresh");
-
-		System.out.println("Naveen ")
 		
-=======
-		System.out.println("Naresh");
-
-		System.out.println("Naveen");
-
-		System.out.println("Naresh");
->>>>>>> 5fed4d648a8a353653d79a042b1fafe176a56c6e
 
 		
 		
